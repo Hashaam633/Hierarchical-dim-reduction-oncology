@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/27316964/README.1.md)
 # 🧬 Cancer Classification via Dimensionality Reduction & Feature Engineering
 
 A machine learning project that classifies multi-class cancer types from high-dimensional RNA-Seq gene expression data using a progressive dimensionality reduction pipeline — from linear PCA to supervised LDA to non-linear t-SNE — combined with biomarker discovery techniques.
