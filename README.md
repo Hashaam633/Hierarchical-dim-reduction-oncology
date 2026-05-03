@@ -8,9 +8,6 @@ A machine learning project that classifies multi-class cancer types from high-di
 
 Gene expression datasets contain tens of thousands of features per sample, making them computationally expensive and prone to the **curse of dimensionality**. This project implements a hierarchical progression of dimensionality reduction strategies to demonstrate measurable accuracy gains at each stage, ultimately achieving state-of-the-art multi-class cancer classification.
 
-**Submitted to:** Professor Daniyal Adeeb — Section D1  
-**Author:** Abdul Moeez (F2023332094)
-
 ---
 
 ## 📂 Dataset
